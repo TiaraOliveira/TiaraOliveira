@@ -3,9 +3,10 @@
 - 👀 Estou interessada em banco de dados 
 - 🌱 Atualmente estudando REACT, JAVASCRIPT, POSTGRESQL, JAVA.
 
+<h4>Contatos</h4>
 - **<a href="https://www.linkedin.com/in/tiara-gomes-de-oliveira-b333151a2/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiara-gomes-de-oliveira-b333151a2/" height="20" width="30" style="max-width: 100%;"></a>**
 
-- <ion-icon name="mail-open-outline"></ion-icon>: tiaragoliveira@gmail.com
+
 
 <div dir="auto">
  <h2>Languages and tools</h2>
