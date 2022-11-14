@@ -3,8 +3,7 @@
 - 👀 Estou interessada em banco de dados 
 - 🌱 Atualmente estudando REACT, JAVASCRIPT, POSTGRESQL, JAVA.
 
-<h4>Contatos</h4>
-- **<a href="https://www.linkedin.com/in/tiara-gomes-de-oliveira-b333151a2/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiara-gomes-de-oliveira-b333151a2/" height="20" width="30" style="max-width: 100%;"></a>**
+
 
 
 
@@ -32,6 +31,8 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 
+<h4>Contato</h4>
+<a href="https://www.linkedin.com/in/tiara-gomes-de-oliveira-b333151a2/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiara-gomes-de-oliveira-b333151a2/" height="20" width="30" style="max-width: 100%;"></a>
 
 <!---
 TiaraOliveira/TiaraOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
