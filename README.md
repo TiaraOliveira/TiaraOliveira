@@ -1,7 +1,7 @@
 - 👋 Olá eu sou a  @TiaraOliveira
 - Sou desenvolvedora de software
 - 👀 Estou interessada em banco de dados 
-- 🌱 IAtualemente estudando REACT, JAVASCRIPT, POSTGRESQL, JAVA.
+- 🌱 Atualmente estudando REACT, JAVASCRIPT, POSTGRESQL, JAVA.
 - Linkedin: https://www.linkedin.com/in/tiara-gomes-de-oliveira-b333151a2/ 
 - email: tiaragoliveira@gmail.com
 
